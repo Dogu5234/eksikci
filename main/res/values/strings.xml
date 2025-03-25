@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eksikci</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_notifications">Bildirimler</string>
+    <string name="title_settings">Ayarlar</string>
+    <string name="settings_device_name">Cihaz Adı</string>
+    <string name="settings_server_url">Sunucu URL</string>
+    <string name="settings_save">Kaydet</string>
+    <string name="settings_saved">Ayarlar kaydedildi!</string>
+    <string name="no_notifications">Bildirim bulunamadı</string>
+    <string name="notifications_error">Bildirimler yüklenirken hata oluştu</string>
+    <string name="order_number">Sipariş No:</string>
+    <string name="collector_name">Toplayan:</string>
+    <string name="created_at">Oluşturulma Zamanı:</string>
+    <string name="status_pending">Beklemede</string>
+    <string name="status_assigned">Atandı</string>
+    <string name="status_completed">Tamamlandı</string>
+    <string name="mark_as_completed">Tamamlandı Olarak İşaretle</string>
+    <string name="missing_products">Eksik Ürünler</string>
+    <string name="add_missing_product">Eksik Ürün Ekle</string>
+    <string name="confirm_dialog_title">Tamamla</string>
+    <string name="confirm_dialog_message">Bu bildirimi tamamlamak istediğinize emin misiniz?</string>
+    <string name="dialog_positive_button">Evet, Tamamla</string>
+    <string name="dialog_negative_button">İptal</string>
+    <string name="tap_scan_barcode">Etiket barkodunu tarayın</string>
+    <string name="assigned_to_device">Atanan Cihaz: %1$s</string>
+    <string name="barcode">Barkod:</string>
+    <string name="quantity">Adet:</string>
+    <string name="quantity_format">%d adet</string>
+    <string name="shelf_address">Raf Adresi:</string>
+    <string name="gender">Cinsiyet:</string>
+    <string name="cover">Kapak:</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="connection_status_disconnected">Sunucuya bağlanılamadı</string>
+    <string name="connection_status_connected">Sunucuya bağlandı</string>
+    <string name="connection_status_connecting">Sunucuya bağlanılıyor...</string>
+</resources>
